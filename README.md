@@ -20,7 +20,7 @@ Olá! Eu sou o Rafael de Assis, estudante de programação.
   <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=vim)
+
 ##
 ##
 
