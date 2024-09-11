@@ -33,8 +33,6 @@ Olá! Eu sou o Rafael de Assis, estudante de programação.
 
 
 
-##
-##
 
 
 ![snake gif](https://github.com/RafinhaAssis/RafinhaAssis/blob/output/github-contribution-grid-snake.svg)
