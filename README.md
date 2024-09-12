@@ -1,15 +1,20 @@
-Olá! Eu sou o Rafael de Assis, estudante de programação.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RafinhaAssis.RafinhaAssis"/>
 
-- 🌱 Estudando PHP, Java e Python
+<h1 align="">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&height=60&duration=4000&lines=Olá+a+todos;Eu+Sou+Rafael+Assis;&color=FFF"/>
+</h1>
+<h3 align="">Apenas um aspirante a DBA</h3>
+<br/>
+<div align="">
+  
+  📚 Atualmente cursando Ciência de Dados.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RafinhaAssis&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaAssis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  💡 Estudante de programação nas horas vagas.
 </div>
-  <br>
-
-
-<div align="center">
+<br/>
+<h2>Linguagens e Frameworksque eu costumo utilizar 📚</h2>
+<br/>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -30,6 +35,22 @@ Olá! Eu sou o Rafael de Assis, estudante de programação.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+<br/>
+
+
+<!--Olá! Eu sou o Rafael de Assis, estudante de programação.
+
+- 🌱 Estudando PHP, Java e Python-->
+<h2>Contribuições</h2>
+<br/>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=RafinhaAssis&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafinhaAssis&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+  <br>
+
+
+
 
 
 
