@@ -3,14 +3,29 @@
 <h1 align="">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&height=60&duration=4000&lines=Olá+a+todos;Eu+Sou+Rafael+Assis;&color=FFF"/>
 </h1>
-<h3 align="">Apenas um aspirante a DBA</h3>
-<br/>
-<div align="">
+
+###
+
+<img align="right" height="150" src=""  />
+
+###
+
   
+<div align="left">
+ 
+  <h3 align="">Apenas um aspirante a DBA</h3>
+   
+<br/>
+
   📚 Atualmente cursando Ciência de Dados.
 
   💡 Estudante de programação nas horas vagas.
 </div>
+
+
+
+
+
 <br/>
 <h2>Linguagens e ferramentas que eu costumo utilizar 📚</h2>
 <br/>
