@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RafinhaAssis.RafinhaAssis"/>
 
 <h1 align="">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&height=60&duration=4000&lines=Olá+a+todos;Eu+Sou+Rafael+Assis;&color=FFF"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&height=60&duration=4000&lines=Olá+a+todos;Meu+nome+é+Rafael+Assis;&color=FFF"/>
 </h1>
 
 ###
