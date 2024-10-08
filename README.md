@@ -27,7 +27,7 @@
 
 
 <br/>
-<h2>Linguagens e ferramentas que eu costumo utilizar 📚</h2>
+<h2>Linguagens e ferramentas</h2>
 <br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
